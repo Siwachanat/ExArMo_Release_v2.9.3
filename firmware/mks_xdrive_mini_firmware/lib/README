@@ -1,0 +1,3 @@
+Private libraries go here. The three libraries this firmware needs are fetched by
+PlatformIO from platformio.ini (lib_deps): Simple FOC 2.4.0, Arduino-FOC-drivers,
+SimpleCANio. First build needs internet; afterwards they are cached in .pio/.
